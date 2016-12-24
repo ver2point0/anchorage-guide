@@ -6,7 +6,7 @@ var states = {
     TOPFIVE: '_TOPFIVE',
 };
 
-var location = "Seattle";
+var location = "Anchorage";
 
 var numberOfResults = 3;
 
@@ -16,7 +16,7 @@ var welcomeMessage = location + " Guide. You can ask me for an attraction, the l
 
 var welcomeRepromt = "You can ask me for an attraction, the local news, or  say help. What will it be?";
 
-var locationOverview = "Seattle is a West Coast seaport city and the  seat of King County. With an estimated 684,451 residents as of 2015, Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America.";
+var locationOverview = "Seattle is a West Coast seaport city and the seat of King County. With an estimated 684,451 residents as of 2015, Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America.";
 
 var HelpMessage = "Here are some things you  can say: Give me an attraction. Tell me about " + location + ". Tell me the top five things to do. Tell me the local news.  What would you like to do?";
 
