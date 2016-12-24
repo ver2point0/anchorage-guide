@@ -17,7 +17,7 @@ var welcomeMessage = location + " Guide. You can ask me for an attraction, the l
 
 var welcomeRepromt = "You can ask me for an attraction, the local news, or  say help. What will it be?";
 
-var locationOverview = "Seattle is a West Coast seaport city and the seat of King County. With an estimated 684,451 residents as of 2015, Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America.";
+var locationOverview = "Anchorage is in the south-central part of the state on the Cook Inlet. With an estimated 298,695 residents as of 2015, Anchorage is the largest city in the state of Alaska. It's known for its cultural sites, including the Alaska Native Heritage Center and is also a gateway to nearby wilderness areas and mountains including the Chugach, Kenai and Talkeetna";
 
 var HelpMessage = "Here are some things you  can say: Give me an attraction. Tell me about " + location + ". Tell me the top five things to do. Tell me the local news.  What would you like to do?";
 
