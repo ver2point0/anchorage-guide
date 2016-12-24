@@ -20,7 +20,7 @@ var locationOverview = "Seattle is a West Coast seaport city and the seat of Kin
 
 var HelpMessage = "Here are some things you  can say: Give me an attraction. Tell me about " + location + ". Tell me the top five things to do. Tell me the local news.  What would you like to do?";
 
-var moreInformation = "See your  Alexa app for  more  information."
+var moreInformation = "See your Alexa app for more information."
 
 var tryAgainMessage = "please try again."
 
