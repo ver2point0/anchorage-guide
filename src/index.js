@@ -10,7 +10,8 @@ var location = "Anchorage";
 
 var numberOfResults = 3;
 
-var APIKey = "4844d21f760b47359945751b9f875877";
+// NY Times search article api key
+var APIKey = "a88b518d0daa42d4a3d2531a061a45ab";
 
 var welcomeMessage = location + " Guide. You can ask me for an attraction, the local news, or  say help. What will it be?";
 
